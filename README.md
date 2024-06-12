@@ -1,6 +1,6 @@
 # TierList
-Date: June 12, 2024 \n
-Author of Changes: kmmcelro \n
+Date: June 12, 2024 
+Author of Changes: kmmcelro 
 Changes from original:
 * Settings screen is now the screen you load in with.
 * An update of the tier list replica program with significant adjustments made.
